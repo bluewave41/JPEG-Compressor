@@ -1,0 +1,27 @@
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\bin\Debug\JPEG.exe.config
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\bin\Debug\JPEG.exe
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\bin\Debug\JPEG.pdb
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\obj\Debug\JPEG.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\obj\Debug\JPEG.Form1.resources
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\obj\Debug\JPEG.Properties.Resources.resources
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\obj\Debug\JPEG.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\obj\Debug\JPEG.exe
+C:\Users\Matthew\Desktop\DirectX Assignment\JPEG\JPEG\obj\Debug\JPEG.pdb
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\bin\Debug\JPEG.exe.config
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\obj\Debug\JPEG.exe
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\obj\Debug\JPEG.pdb
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\bin\Debug\JPEG.exe
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\bin\Debug\JPEG.pdb
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\obj\Debug\JPEG.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\obj\Debug\JPEG.Form1.resources
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\obj\Debug\JPEG.Properties.Resources.resources
+C:\Users\Matthew\Desktop\JPEG\JPEG\JPEG\obj\Debug\JPEG.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\obj\Debug\JPEG.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\obj\Debug\JPEG.Form1.resources
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\obj\Debug\JPEG.Properties.Resources.resources
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\obj\Debug\JPEG.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\obj\Debug\JPEG.exe
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\obj\Debug\JPEG.pdb
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\bin\Debug\JPEG.exe.config
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\bin\Debug\JPEG.exe
+C:\Users\Matthew\Desktop\BCIT\Term 4\JPEG\JPEG\JPEG\bin\Debug\JPEG.pdb
